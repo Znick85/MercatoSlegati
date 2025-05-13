@@ -1,0 +1,95 @@
+ruolo;nome;squadra;quotazione
+Portiere;Sommer;Inter;15
+Portiere;Milinkovic;Torino;13
+Portiere;Di Gregorio;Juventus;11
+Portiere;Meret;Napoli;11
+Portiere;Leali;Genoa;11
+Portiere;Stankovic;Venezia;11
+Portiere;Carnesecchi;Atalanta;10
+Portiere;Maignan;Milan;9
+Portiere;Provedel;Lazio;9
+Portiere;Svilar;Roma;9
+Portiere;Pau Lopez;;9
+Portiere;De Gea;Fiorentina;8
+Portiere;Turati;Monza;7
+Portiere;Szczesny;;5
+Portiere;Radu I.;Venezia;5
+Portiere;Skorupski;Bologna;4
+Portiere;Falcone;Lecce;4
+Portiere;Montipo;Verona;4
+Difensore;Dimarco;Inter;32
+Difensore;Dumfries;Inter;24
+Difensore;Bastoni A.;Inter;20
+Difensore;Hernandez;Milan;15
+Difensore;Calafiori;;15
+Difensore;Zortea;Cagliari;15
+Difensore;Bellanova;Atalanta;14
+Difensore;Di Lorenzo;Napoli;14
+Difensore;Mancini;Roma;13
+Difensore;Rrahmani;Napoli;13
+Difensore;Luperto;Cagliari;13
+Difensore;Gosens;Fiorentina;13
+Difensore;Darmian;Inter;12
+Difensore;Walker;Milan;12
+Difensore;Pavard;Inter;10
+Difensore;Bijol;Udinese;10
+Difensore;Kolasinac;Atalanta;10
+Difensore;Cambiaso;Juventus;10
+Difensore;Angelino;Roma;10
+Centrocampista;Pulisic;Milan;44
+Centrocampista;Orsolini;Bologna;41
+Centrocampista;De Ketelaere;Atalanta;37
+Centrocampista;Barella;Inter;36
+Centrocampista;Neres;Napoli;32
+Centrocampista;Zaccagni;Lazio;31
+Centrocampista;Calhanoglu;Inter;29
+Centrocampista;Anguissa;Napoli;29
+Centrocampista;Mctominay;Napoli;29
+Centrocampista;Reijnders;Milan;28
+Centrocampista;Strefezza;Como;27
+Centrocampista;Yildiz;Juventus;26
+Centrocampista;Koopmeiners;Juventus;25
+Centrocampista;Politano;Napoli;25
+Centrocampista;Ederson;Atalanta;24
+Centrocampista;Thuram K.;Juventus;24
+Centrocampista;Pellegrini Lo.;Roma;23
+Centrocampista;El Shaarawy;Roma;23
+Centrocampista;Kone M.;Roma;23
+Centrocampista;Chiesa;;22
+Centrocampista;Mkhitaryan;Inter;22
+Centrocampista;Paz;Como;22
+Centrocampista;Samardzic;Atalanta;21
+Centrocampista;Frattesi;Inter;20
+Centrocampista;Sottil;Milan;20
+Centrocampista;Guendouzi;Lazio;20
+Centrocampista;Vlasic;Torino;20
+Centrocampista;Man;Parma;20
+Centrocampista;Ndoye;Bologna;20
+Centrocampista;Oristanio;Venezia;20
+Centrocampista;Adli;Fiorentina;20
+Centrocampista;Maldini;Atalanta;20
+Attaccante;Martinez L.;Inter;51
+Attaccante;Thuram;Inter;47
+Attaccante;Retegui;Atalanta;47
+Attaccante;Lukaku;Napoli;46
+Attaccante;Lookman;Atalanta;40
+Attaccante;Kean;Fiorentina;40
+Attaccante;Dovbyk ;Roma;40
+Attaccante;Kvaratskhelia;;35
+Attaccante;Morata;;35
+Attaccante;Vlahovic;Juventus;34
+Attaccante;Dybala;Roma;34
+Attaccante;Gimenez;Milan;34
+Attaccante;Lucca;Udinese;33
+Attaccante;Dia;Lazio;32
+Attaccante;Osimhen;;31
+Attaccante;Muani;Juventus;31
+Attaccante;Beltran;Fiorentina;29
+Attaccante;Adams;Torino;29
+Attaccante;Leao;Milan;27
+Attaccante;Krstovic;Lecce;27
+Attaccante;Castellanos;Lazio;27
+Attaccante;Pinamonti;Genoa;27
+Attaccante;Odgaard;Bologna;26
+Attaccante;Cutrone;Como;26
+Attaccante;Tengstedt;Verona;26
